@@ -1,0 +1,6 @@
+# Packaged extension output (create_extension.ps1)
+*.zip
+*.aseprite-extension
+
+# Cached Aseprite binary path (scripts/Find-Aseprite.ps1)
+scripts/.aseprite-bin
