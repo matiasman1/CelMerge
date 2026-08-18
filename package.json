@@ -1,0 +1,11 @@
+{
+    "name": "celmerge",
+    "displayName": "CelMerge",
+    "description": "Merge/Flatten cels across frames, mirroring native Merge Down / Flatten but on the frame axis",
+    "version": "1.0.0",
+    "contributes": {
+        "scripts": [
+            { "path": "./main.lua" }
+        ]
+    }
+}
